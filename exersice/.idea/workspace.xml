@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="377e70a2-90cc-4ba2-8dfd-906e40db7d9d" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2G12OSdht42mRm1x8PIAdWTo9ji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third.Main" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third.Main" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method2.Main2" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method3.Main3" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method4.Main4" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forth.Main" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method1.demo1" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="exersice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377e70a2-90cc-4ba2-8dfd-906e40db7d9d" name="默认更改列表" comment="" />
+      <created>1665541737491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665541737491</updated>
+      <workItem from="1665541740663" duration="3982000" />
+      <workItem from="1665628630028" duration="964000" />
+      <workItem from="1666083216953" duration="2307000" />
+      <workItem from="1666093045763" duration="338000" />
+      <workItem from="1666093408574" duration="3001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1666084408730">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="345" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.752@0.0.1280.752" timestamp="1666084408730" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1666096437188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1666085301635" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1666096437188" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1666096437188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1666085301635" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1666096437188" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1666096437187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1666085301635" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1666096437187" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1666096437188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1666085301635" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1666096437188" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1666093382361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1666093382361" />
+    <state x="340" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1665628631746">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="340" y="200" key="com.intellij.ide.util.TipDialog/0.0.1280.752@0.0.1280.752" timestamp="1665628631746" />
+  </component>
+</project>
